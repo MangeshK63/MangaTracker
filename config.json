@@ -1,0 +1,5 @@
+{
+    "mongodb":"",
+    "allowed_origins": "*",
+    "rating_type":"stars"
+}
